@@ -1,5 +1,4 @@
-<h2> Hey there! I'm Aditya Ranjan ![image](https://user-images.githubusercontent.com/49449321/123554798-6ccbce80-d79f-11eb-8b44-4e37f8479669.png)
-.</h2>
+<h2> Hey there! I'm Aditya Ranjan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
