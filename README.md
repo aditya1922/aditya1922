@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/aditya1922/aditya1922/master/assets/Aditya%20Ranjan%20Banner.png">
-
 <h2> Hey there! I'm Aditya Ranjan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
