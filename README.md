@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 👨 &nbsp; Working as Software Engineer at Brane Enterprises Pvt Ltd,Hyderabad, Telangana
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying B.Tech(2018-22) at Indian Institute of Information Technology Bhagalpur.
+- 🎓 &nbsp; Pursued B.Tech(2018-22) from Indian Institute of Information Technology Bhagalpur.
 - 💼 &nbsp; Worked as a Web Developer at Exposys Data Labs Bangalore, India.
 - 🌱 &nbsp; Learning more about Data Structures & Algorithms, Software Development and Machine Learning.
 - ✍️ &nbsp; Pursuing Freelancing and Blog Writing as hobbies/side hustles.
